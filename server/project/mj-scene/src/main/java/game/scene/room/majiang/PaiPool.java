@@ -40,7 +40,7 @@ public class PaiPool {
             pais.set(i, pais.get(randomIndex));
             pais.set(randomIndex, temp);
         }
-        initTest();
+//        initTest();
     }
 
     public void clear() {
